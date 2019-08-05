@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+  
+<channel>
+<name>[B]### [COLOR yellow]ASSISTA AO TRAILER DA SÉRIE[/COLOR] ###[/B]</name>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/FlhoS47.jpg</thumbnail>
+<fanart>https://cosmonerd.com.br/wp-content/uploads/2019/02/boneca-russa-netflix-1-temporada-critica-Charlie-Barnett-e-Natasha-Lyonne.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]::::[/COLOR] 1ª TEMPORADA (BONECAS RUSSAS) [COLOR yellow]NETFREE[/COLOR] [COLOR red]PLAY[/COLOR] [COLOR blue]::::[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/FlhoS47.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SRmasazuka/bonecass/master/S01</externallink>
+<fanart>https://cosmonerd.com.br/wp-content/uploads/2019/02/boneca-russa-netflix-1-temporada-critica-Charlie-Barnett-e-Natasha-Lyonne.jpg</fanart>
+<info>
+[B][COLOR yellow]Episódios:[/COLOR] 08[/B]
+[B][COLOR yellow]Data De Lançamento:[/COLOR] 1 de fevereiro de 2019[/B]
+</info>
+</channel>
